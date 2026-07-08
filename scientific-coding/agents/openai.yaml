@@ -1,0 +1,4 @@
+interface:
+  display_name: "科学 Coding 观"
+  short_description: "按事实、边界和验证约束 AI 编程协作"
+  default_prompt: "使用 $scientific-coding 按科学 Coding 观处理这个编码任务：先读上下文，不编造接口，小步修改，并完成验证。"
